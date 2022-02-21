@@ -1,2 +1,59 @@
 # URL-Shortening-Landing-Page
-Shortly URL shortening API
+# Shortly URL shortening API
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Live site and instructions](#live-site-and-instructions)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+ 
+
+## Overview
+
+### Live site and instructions
+
+- Want to check it locally? Follow the steps
+  1. Clone the repository
+    * `git clone git@github.com:adryanrosa/url-shortening-api-landing-page.git`
+    * Enter the cloned repository folder:
+     * `cd url-shortening-api-landing-page`
+
+  2. Install the dependencies and start the project
+    * Install the dependencies:
+     * `npm install`
+    * Start the project:
+     * `npm start` (a new tab should open in your default browser)
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- Shorten any valid URL
+- See a list of their shortened links
+- Copy the shortened link to their clipboard in a single click
+- Receive an error message when the `form` is submitted if:
+  - The `input` field is empty
+
+### Screenshot
+
+![screenshot](./screenshot.png)
+
+## My process
+
+### Built with
+
+- [React](https://reactjs.org/) - Frontend JavaScript library
+- [Sass](https://sass-lang.com/) - CSS preprocessor
+- [BEM](http://getbem.com/introduction/) - CSS methodology
+- [Link Shortener API](https://shrtco.de/) - REST API
+- Mobile-first Workflow
+
+### Useful resources
+
+- [Sass Masterclass - Rocketseat](https://www.youtube.com/watch?v=BaI8dHUthLA) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward
+
