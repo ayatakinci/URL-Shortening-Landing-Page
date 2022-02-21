@@ -18,9 +18,9 @@
 
 - Want to check it locally? Follow the steps
   1. Clone the repository
-    * `git clone git@github.com:ayat0110/URL-Shortening-Landing-Page.git`
+    * `git clone git@github.com/ayat0110/URL-Shortening-Landing-Page.git`
     * Enter the cloned repository folder:
-     * `cd url-shortening-api-landing-page`
+     * `cd URL-Shortening-Landing-Page`
 
   2. Install the dependencies and start the project
     * Install the dependencies:
