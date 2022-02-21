@@ -11,6 +11,18 @@
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
  
+## About The Project
+I've developed this challenge to learn React with Hooks and practice my skills.
+
+In this project I'm using:
+
+* Create-react-app
+* React and Hooks
+* API fetching
+* HTML & CSS
+* Mobile First
+* Responsive Design
+You can see this project in action here: [https://luciano-im.github.io/landing-page-url-shortener/](https://luciano-im.github.io/landing-page-url-shortener/)
 
 ## Getting Started
 
@@ -73,6 +85,6 @@ Don't forget to give the project a star! Thanks again!
 
 Ayat Alzaidi - [@Ayat_Alzaidi ](https://www.linkedin.com/in/ayat-alzaidi/) 
 
-Project Link: [https://github.com/ayat0110/URL-Shortening-Landing-Page](https://github.com/ayat0110/URL-Shortening-Landing-Page)
+
 - <p align="right">(<a href="#top">back to top</a>)</p>
 
