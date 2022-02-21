@@ -22,6 +22,7 @@ In this project I'm using:
 * HTML & CSS
 * Mobile First
 * Responsive Design
+
 You can see this project in action here: [https://luciano-im.github.io/landing-page-url-shortener/](https://luciano-im.github.io/landing-page-url-shortener/)
 
 ## Getting Started
