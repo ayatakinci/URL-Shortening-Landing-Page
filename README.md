@@ -40,7 +40,7 @@ You can see this project in action here: [https://luciano-im.github.io/landing-p
     * Start the project:
      * ```npm start``` (a new tab should open in your default browser)
 
-### About The Project
+
 
 Users should be able to:
 
