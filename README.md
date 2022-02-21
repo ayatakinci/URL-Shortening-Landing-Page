@@ -42,6 +42,18 @@ Users should be able to:
 ### Screenshot
 ![screenshot](https://user-images.githubusercontent.com/76471156/154994745-4ef5cc8e-9cf0-4f5c-88d5-030a0e448fd8.png)
 
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## My process
 
@@ -53,7 +65,7 @@ Users should be able to:
 - [Link Shortener API](https://shrtco.de/) - REST API
 - Mobile-first Workflow
 
-### Useful resources
+### Acknowledgments
 
 - [Sass Tutorial for Beginners - freecodecamp.org](https://www.youtube.com/watch?v=_a5j7KoflTs&t=392s) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward.
 
