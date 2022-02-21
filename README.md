@@ -82,6 +82,7 @@ Don't forget to give the project a star! Thanks again!
 - [Sass Tutorial for Beginners - freecodecamp.org](https://www.youtube.com/watch?v=_a5j7KoflTs&t=392s) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward.
 
 ## Contact
+Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
 Ayat Alzaidi - [@Ayat_Alzaidi ](https://www.linkedin.com/in/ayat-alzaidi/) 
 
