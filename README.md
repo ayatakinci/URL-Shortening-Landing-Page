@@ -1,5 +1,5 @@
 # URL-Shortening-Landing-Page
-# Shortly URL shortening API
+ Shortly URL shortening API
 
 ## Table of contents
 
@@ -12,23 +12,23 @@
   - [Useful resources](#useful-resources)
  
 
-## Overview
+## Getting Started
 
 ### Live site and instructions
 
 - Want to check it locally? Follow the steps
   1. Clone the repository
-    * `git clone git@github.com/ayat0110/URL-Shortening-Landing-Page.git`
+    * ```git clone git@github.com/ayat0110/URL-Shortening-Landing-Page.git```
     * Enter the cloned repository folder:
-     * `cd URL-Shortening-Landing-Page`
+     * ```cd URL-Shortening-Landing-Page```
 
   2. Install the dependencies and start the project
     * Install the dependencies:
-     * `npm install`
+     * ```npm install```
     * Start the project:
-     * `npm start` (a new tab should open in your default browser)
+     * ```npm start``` (a new tab should open in your default browser)
 
-### The challenge
+### About The Project
 
 Users should be able to:
 
@@ -55,5 +55,6 @@ Users should be able to:
 
 ### Useful resources
 
-- [Sass Tutorial for Beginners - freecodecamp.org](https://www.youtube.com/watch?v=_a5j7KoflTs&t=392s) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward
+- [Sass Tutorial for Beginners - freecodecamp.org](https://www.youtube.com/watch?v=_a5j7KoflTs&t=392s) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward.
+- <p align="right">(<a href="#top">back to top</a>)</p>
 
