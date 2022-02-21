@@ -18,7 +18,7 @@
 
 - Want to check it locally? Follow the steps
   1. Clone the repository
-    * `git clone git@github.com:adryanrosa/url-shortening-api-landing-page.git`
+    * `git clone git@github.com:ayat0110/URL-Shortening-Landing-Page.git`
     * Enter the cloned repository folder:
      * `cd url-shortening-api-landing-page`
 
