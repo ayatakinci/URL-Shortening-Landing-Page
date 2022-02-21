@@ -61,6 +61,6 @@ Users should be able to:
 
 Ayat Alzaidi - [@Ayat_Alzaidi ](https://www.linkedin.com/in/ayat-alzaidi/) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/ayat0110/URL-Shortening-Landing-Page)
 - <p align="right">(<a href="#top">back to top</a>)</p>
 
