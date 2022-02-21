@@ -1,15 +1,5 @@
 # URL-Shortening-Landing-Page
  Shortly URL shortening API
-
-## Table of contents
-
-- [About The Project](#About The Project)
-  - [Getting Started](#Getting Started)
-  - [Screenshot](#screenshot)
-  - [My process](#My process)
-- [My process](#my-process)
-  - [Acknowledgments](#Acknowledgments)
-  - [Contact](#Contact)
  
 ## About The Project
 I've developed this challenge to learn React with Hooks and practice my skills.
