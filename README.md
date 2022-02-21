@@ -59,7 +59,7 @@ Users should be able to:
 
 ## Contact
 
-Ayat Alzaidi - [@your_twitter](https://www.linkedin.com/in/ayat-alzaidi/) 
+Ayat Alzaidi - [@Ayat_Alzaidi ](https://www.linkedin.com/in/ayat-alzaidi/) 
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 - <p align="right">(<a href="#top">back to top</a>)</p>
