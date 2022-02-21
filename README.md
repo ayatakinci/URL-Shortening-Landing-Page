@@ -40,8 +40,8 @@ Users should be able to:
   - The `input` field is empty
 
 ### Screenshot
+![screenshot](https://user-images.githubusercontent.com/76471156/154994745-4ef5cc8e-9cf0-4f5c-88d5-030a0e448fd8.png)
 
-![screenshot](./screenshot.png)
 
 ## My process
 
