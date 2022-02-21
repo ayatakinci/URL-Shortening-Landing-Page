@@ -56,5 +56,11 @@ Users should be able to:
 ### Useful resources
 
 - [Sass Tutorial for Beginners - freecodecamp.org](https://www.youtube.com/watch?v=_a5j7KoflTs&t=392s) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward.
+
+## Contact
+
+Ayat Alzaidi - [@your_twitter](https://www.linkedin.com/in/ayat-alzaidi/) 
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 - <p align="right">(<a href="#top">back to top</a>)</p>
 
