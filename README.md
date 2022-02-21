@@ -3,13 +3,13 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Live site and instructions](#live-site-and-instructions)
-  - [The challenge](#the-challenge)
+- [About The Project](#About The Project)
+  - [Getting Started](#Getting Started)
   - [Screenshot](#screenshot)
+  - [My process](#My process)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+  - [Acknowledgments](#Acknowledgments)
+  - [Contact](#Contact)
  
 ## About The Project
 I've developed this challenge to learn React with Hooks and practice my skills.
