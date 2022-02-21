@@ -55,5 +55,5 @@ Users should be able to:
 
 ### Useful resources
 
-- [Sass Masterclass - Rocketseat](https://www.youtube.com/watch?v=BaI8dHUthLA) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward
+- [Sass Tutorial for Beginners - freecodecamp.org](https://www.youtube.com/watch?v=_a5j7KoflTs&t=392s) - This masterclass helped understand @mixin, @function, @include, @extend, etc. Sass features to improve the project organization and avoid repetitions. Will keep using them going forward
 
