@@ -1,0 +1,26 @@
+.btn{
+    display: block;
+    background-color: $clr-primary-light;
+    color: $clr-netural-100;
+    font-size: 1.125rem;
+    font-weight: $fw-bold;
+    border: none;
+    cursor: pointer;
+
+    &:focus {
+        outline:none;
+    }
+}
+.btn-rounded{
+    border-radius: 2rem;
+    padding: 0.875rem 2.875rem;
+}
+.copied{
+    background-color: $clr-primary-dark;
+}
+
+@include media-hover{
+    .btn:hover{
+        
+    }
+}
